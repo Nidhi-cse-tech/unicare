@@ -1,0 +1,1 @@
+The proposed solution is a unified AI-driven developmental healthcare platform designed to address the lack of pediatric and geriatric screening services in rural India. It enables early detection, assessment, and therapy guidance for hearing loss, speech delay, autism indicators, and motor development issues using only a smartphone and low-cost peripherals.
